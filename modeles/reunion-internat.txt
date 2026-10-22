@@ -1,0 +1,28 @@
+À :     {{MEL}}
+Objet : Internat – réunion d'information des familles ({{ELEVES}})
+
+------------------------------------------------------------------------
+Madame, Monsieur,
+
+Vous recevez ce message en tant que responsable de {{ELEVES}},
+inscrit(e)(s) à l'internat de l'établissement.
+
+Nous avons le plaisir de vous inviter à la réunion d'information des familles
+de l'internat, qui aura lieu le [date] à [heure], au [lieu].
+
+Au programme :
+- présentation de l'équipe de l'internat et du règlement ;
+- organisation des départs et des retours de week-end ;
+- questions diverses.
+
+Merci de nous confirmer votre présence en répondant simplement à ce message.
+
+Si vos coordonnées ont changé, merci de nous les signaler afin que nous
+mettions à jour le dossier.
+
+Cordialement,
+
+[Nom]
+[Fonction] – Internat
+[Établissement] – [téléphone]
+------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+# --- Données personnelles : ne jamais versionner de vrais exports ---
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.xml
+*.eml
+
+# Exemples fictifs fournis avec le dépôt
+!exemples/*_FICTIF.csv
+!exemples/*_FICTIF_publipostage.csv
+
+# Divers
+.vscode/
+*.tmp
+~$*
+Thumbs.db
+.DS_Store

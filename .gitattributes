@@ -1,0 +1,7 @@
+# Fichiers destinés à Windows : fins de ligne CRLF conservées, même si le dépôt est cloné sous Linux
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.md  text eol=crlf
+*.xml text eol=crlf
+*.txt text eol=crlf
+*.csv text eol=crlf

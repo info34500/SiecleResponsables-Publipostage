@@ -1,0 +1,22 @@
+À :     {{MEL}}
+Objet : Vérification de vos coordonnées ({{ELEVES}})
+
+------------------------------------------------------------------------
+Madame, Monsieur,
+
+Afin de pouvoir vous joindre rapidement au sujet de {{ELEVES}},
+merci de vérifier les coordonnées enregistrées dans notre dossier :
+
+- courriel : {{MEL}}
+- téléphone portable : {{TEL_PORTABLE}}
+- adresse : {{ADRESSE}}, {{CODE_POSTAL}} {{COMMUNE}}
+
+Si l'une de ces informations est inexacte ou incomplète, répondez simplement
+à ce message en indiquant la correction.
+
+Cordialement,
+
+[Nom]
+[Fonction]
+[Établissement] – [téléphone]
+------------------------------------------------------------------------
